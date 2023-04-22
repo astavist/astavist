@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Samet</h2>
 <h3 align="center">ex-architect who followed his passion for software engineering</h3>
 
-- 🌱 I’m currently learning **java-js**
+- 🌱 I’m currently learning **java-spring**
 
 - 💬 Ask me about **java, python**
 
