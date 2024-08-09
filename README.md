@@ -1,7 +1,7 @@
 ![Logo](https://thumbs.gfycat.com/AgitatedQuerulousAfricanaugurbuzzard-size_restricted.gif)
 
 # 💫 About Me:
-🔭 I’m currently working at Turkcell Gelecegi Yazanlar<br>👯 I’m looking to collaborate on java projects<br>🌱 I’m currently learning microservices architecture<br>💬 Ask me about java-spring boot-monolith architecture
+👯 I’m looking to collaborate on java projects<br>🌱 I’m currently learning microservices architecture<br>💬 Ask me about java-spring boot-monolith architecture
 
 
 ## 🌐 Socials:
